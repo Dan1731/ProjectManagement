@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Weekly Reports</title>
+</head>
+<body>
+    <h1>Weekly Project Post Week 2</h1>
+
+    <p>
+        Last week I spent time focusing on what my goals were for the project and explored a few different directions. 
+        I broke the idea into features and now I just need to decide which takes priority and which are needed to submit a quality project.
+    </p>
+
+    <h2>
+        What do I plan to do this week?
+    </h2>
+
+    <p>
+        This week I plan to work on the website front page and explore how I want to structure the project as a website. 
+        A big part of my project is managing and creating data, since I want to be able to edit and move variables around 
+        depending on project information as I'm leaning towards creating a project management tool. I've been wanting to 
+        play around with SQL so I think I'll familiarize myself with the basics.
+    </p>
+
+    <h2>
+        Reflection
+    </h2>
+    
+    <p>
+        Looking back I could have pushed myself further by doing more than just outlining the proposal. 
+        I'm mentally still in break mood and it's been a struggle to fully shift back to focusing on classes.
+    </p>
+
+    <h1>Weekly Project Post Week 3</h1>
+    
+    <p>
+        Last week I worked on setting up the overall structure of the website. I built out the sidebar layout, which 
+        shows the main features I want the project to have and will be how users navigate through the app. The Projects 
+        page is functional but still blank for now, and the Weekly Reports page works as a simple page to display these 
+        updates.
+    </p>
+
+    <p>
+        I also started working on the SQL database. The main focus has been setting up tables to store project 
+        information, since projects are the largest piece of data in the system. From there, projects will eventually 
+        have child data like tasks. I also added tables for users and clients. I mostly experimented on my own, but I 
+        did look up some layout and icon ideas to speed things up instead of rebuilding everything from scratch. I also 
+        finally settled on a name for the website to make the project feel a little more real.
+    </p>
+
+    <h2>
+        What do I plan to do this week?
+    </h2>
+    <p>
+        This week I plan to focus on the Projects tab and getting actual data to show up there. The first goal is to let
+        users view a list of projects pulled from the database. The data will be pretty minimal at first, but it should 
+        help me practice connecting the UI to SQL and working with different data inputs. Once that’s working, I want 
+        to start letting users edit project information through the UI.
+    </p>
+
+    <h2>
+        Reflection
+    </h2>
+
+    <p>
+        TLooking back, I think I spent a bit too much time focusing on how the front end looks instead of how everything 
+        works underneath. I enjoy working on the UI, but I don’t want to run into situations where I have to redo designs 
+        because the implementation changes. Moving forward, I want to focus more on getting the backend and data flow 
+        solid first, and then come back and polish the UI once things are more stable.
+    </p>
+
+</body>
+</html>
